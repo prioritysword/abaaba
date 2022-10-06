@@ -1,0 +1,24 @@
+p1 {
+    color: aliceblue;
+    width: 16px;
+    border: 4px;
+}
+p2 {
+    color: aliceblue;
+    width: 16px;
+    border: 4px;
+}
+p3 {
+    color: aqua;
+}
+.c1 {
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    width: 160px;
+}
+.c2 {
+    position: fixed;
+    left: 20px;
+    top: 20%;
+}
